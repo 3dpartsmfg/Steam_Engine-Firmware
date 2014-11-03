@@ -1,5 +1,5 @@
 ==========================
-Marlin 3D Printer Firmware
+Steam Engine-Firmware
 ==========================
 [![Coverity Scan Build Status](https://scan.coverity.com/projects/2224/badge.svg)](https://scan.coverity.com/projects/2224)
 
